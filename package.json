@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "scripts": {
+    "start": "brunch watch --server"
+  },
+  "devDependencies": {
+    "auto-reload-brunch": "^2.7.1",
+    "brunch": "^2.9.1",
+    "lodash": "^4.17.2"
+  }
+}
